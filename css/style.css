@@ -9,9 +9,12 @@ nav a {
 
 nav li {
     display: inline-block;
-    /* position: relative;
+}
+
+#content li{
+    position: relative;
     left: 35px;
-    list-style-type: square; */
+    list-style-type: square;
 }
 
 .skip {
@@ -28,4 +31,9 @@ nav li {
 .profilepic{
     height: 15%;
     width: 15%;
+}
+
+.banner{
+    height: 150px;
+    width: 800px;
 }
