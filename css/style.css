@@ -37,3 +37,18 @@ nav li {
     height: 150px;
     width: 800px;
 }
+
+/* .headshot{
+    height: 15%;
+    width: 15%;
+} */
+
+.profile-rotateimg90 {
+  -webkit-transform:rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
+  transform: rotate(90deg);
+  height: 175px;
+  width: 175px;
+}
