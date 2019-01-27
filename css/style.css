@@ -1,0 +1,25 @@
+nav a {
+    color:#2a70ea;
+}
+
+.current{
+    font-style: italic;
+}
+
+li {
+    /* display: inline-block;
+    position: relative;
+    left: 35px; */
+    list-style-type: square;
+}
+
+.skip {
+    position: relative;
+    left: -2000px;
+}
+
+.skip:focus {
+    position: relative;
+    left: -2000px;
+    border: 2px solid black;
+}
