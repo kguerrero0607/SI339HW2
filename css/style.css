@@ -4,13 +4,14 @@ nav a {
 
 .current{
     font-style: italic;
+    color: #d10e0e;
 }
 
-li {
-    /* display: inline-block;
-    position: relative;
-    left: 35px; */
-    list-style-type: square;
+nav li {
+    display: inline-block;
+    /* position: relative;
+    left: 35px;
+    list-style-type: square; */
 }
 
 .skip {
@@ -22,4 +23,9 @@ li {
     position: relative;
     left: -2000px;
     border: 2px solid black;
+}
+
+.profilepic{
+    height: 15%;
+    width: 15%;
 }
